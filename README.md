@@ -1,7 +1,7 @@
 ## Socials
 
-Only socials that I currently have is my YouTube channel, iTech14. Make sure to subscribe to it, as I post tech-related stuff to there.
----
+**Only socials that I currently have is my YouTube channel, iTech14. Make sure to subscribe to it, as I post tech-related stuff to there.
+**---
 
 # Repository
 
